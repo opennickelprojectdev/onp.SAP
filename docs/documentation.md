@@ -7,7 +7,7 @@
 | pattern-name            | base template                                 |
 | pattern-version         | 1.0.0                                         |
 | pattern-description     | Some description here                         |
-| organisation-id         | nc                                            |
+| organisation-id         | trustbank                                            |
 | pattern-categories      | bootstrap                                     |
 
 ## What is this pattern?
